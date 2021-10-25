@@ -7,6 +7,7 @@
     <!ELEMENT planeta (#PCDATA)>
     <!ELEMENT satelite (#PCDATA)>
     <!ELEMENT asteroide (#PCDATA)>]>
+    <sistemaSolar>
     <cuerpo>
         <planeta>Tierra</planeta>
         <satelite>Luna</satelite>
